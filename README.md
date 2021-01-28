@@ -1,2 +1,3 @@
 # hello-world
-practice
+its a small step of me 
+but it will make me higher and higher
